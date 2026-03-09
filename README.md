@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Zaid Nawaz 👋
+### 🚀 Frontend Developer | TypeScript & AI Enthusiast
 
-<!--
-**ZaidAlvi786/ZaidAlvi786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software developer specializing in building modern web applications, AI-powered tools, and scalable systems. I love turning complex problems into intuitive, user-friendly digital experiences.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building **Einstein AI** and a **Live Voice Translator**.
+- 🌱 I’m constantly exploring new frontiers in **AI integrations, Next.js, and TypeScript**.
+- 💬 Ask me about **Frontend Development, UI/UX, and API integrations**.
+- 📫 How to reach me: **[Add your LinkedIn URL here]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools:
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,git,github,vscode,figma" alt="Zaid's Skills" />
+  </a>
+</p>
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaidAlvi786&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Zaid's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidAlvi786&theme=radium&hide_border=true" alt="Zaid's GitHub Streak" />
+</p>
+
+### 🏆 Top Languages:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAlvi786&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+</p>
