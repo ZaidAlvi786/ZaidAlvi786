@@ -1,19 +1,21 @@
 # Hi there, I'm Zaid Nawaz 👋
-### 🚀 Frontend Developer | TypeScript & AI Enthusiast
+### 🚀 Senior Full Stack Developer & AI Integrator | 7+ Years of Experience
 
-I am a passionate software developer specializing in building modern web applications, AI-powered tools, and scalable systems. I love turning complex problems into intuitive, user-friendly digital experiences.
+I am a seasoned Full Stack Developer with over 7 years of experience architecting scalable systems, developing advanced **AI Chat Assistants**, and building robust, modern web applications. I specialize in bridging the gap between complex backend cloud architectures and intuitive user interfaces.
 
-- 🔭 I’m currently building **Einstein AI** and a **Live Voice Translator**.
-- 🌱 I’m constantly exploring new frontiers in **AI integrations, Next.js, and TypeScript**.
-- 💬 Ask me about **Frontend Development, UI/UX, and API integrations**.
+- 🔭 I’m currently building **Einstein AI**, **Live Voice Translators**, and custom **AI Assistants**.
+- ⚙️ **Backend & Cloud:** Node.js, NestJS, Python, GraphQL, and AWS.
+- 🗄️ **Databases:** PostgreSQL, MongoDB, SQL, and Supabase.
+- 💻 **Frontend:** React, Next.js, and TypeScript.
+- 💬 Ask me about **System Architecture, AI Integrations, and Full Stack Development**.
 - 📫 How to reach me: https://www.linkedin.com/in/zaid-alvi-b37783145/
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Languages, Frameworks & Tools:
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,git,github,vscode,figma" alt="Zaid's Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,nestjs,graphql,postgres,mongodb,supabase,aws,react,nextjs,docker,git" alt="Zaid's Skills" />
   </a>
 </p>
 
