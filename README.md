@@ -6,7 +6,7 @@ I am a passionate software developer specializing in building modern web applica
 - 🔭 I’m currently building **Einstein AI** and a **Live Voice Translator**.
 - 🌱 I’m constantly exploring new frontiers in **AI integrations, Next.js, and TypeScript**.
 - 💬 Ask me about **Frontend Development, UI/UX, and API integrations**.
-- 📫 How to reach me: **[Add your LinkedIn URL here]**
+- 📫 How to reach me: https://www.linkedin.com/in/zaid-alvi-b37783145/
 
 ---
 
