@@ -6,7 +6,7 @@ I am a seasoned Full Stack Developer with over 7 years of experience architectin
 - 🔭 I’m currently building **Einstein AI**, **Live Voice Translators**, and custom **AI Assistants**.
 - ⚙️ **Backend & Cloud:** Node.js, NestJS, Python, GraphQL, and AWS.
 - 🗄️ **Databases:** PostgreSQL, MongoDB, SQL, and Supabase.
-- 💻 **Frontend:** React, Next.js, and TypeScript.
+- 💻 **Frontend:** React, Angular, Next.js, and TypeScript.
 - 💬 Ask me about **System Architecture, AI Integrations, and Full Stack Development**.
 - 📫 How to reach me: https://www.linkedin.com/in/zaid-alvi-b37783145/
 
@@ -15,7 +15,7 @@ I am a seasoned Full Stack Developer with over 7 years of experience architectin
 ### 🛠️ Languages, Frameworks & Tools:
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,nestjs,graphql,postgres,mongodb,supabase,aws,react,nextjs,docker,git" alt="Zaid's Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,nestjs,graphql,postgres,mongodb,supabase,aws,angular,react,nextjs,docker,git" alt="Zaid's Skills" />
   </a>
 </p>
 
