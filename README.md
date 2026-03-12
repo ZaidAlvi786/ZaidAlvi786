@@ -1,31 +1,118 @@
-# Hi there, I'm Zaid Nawaz 👋
-### 🚀 Senior Full Stack Developer & AI Integrator | 7+ Years of Experience
+# Hi, I'm Zaid Alvi 👋
 
-I am a seasoned Full Stack Developer with over 7 years of experience architecting scalable systems, developing advanced **AI Chat Assistants**, and building robust, modern web applications. I specialize in bridging the gap between complex backend cloud architectures and intuitive user interfaces.
+### AI Systems Engineer | Full Stack Architect | Building Intelligent Platforms
 
-- 🔭 I’m currently building **Einstein AI**, **Live Voice Translators**, and custom **AI Assistants**.
-- ⚙️ **Backend & Cloud:** Node.js, NestJS, Python, GraphQL, and AWS.
-- 🗄️ **Databases:** PostgreSQL, MongoDB, SQL, and Supabase.
-- 💻 **Frontend:** React, Angular, Next.js, and TypeScript.
-- 💬 Ask me about **System Architecture, AI Integrations, and Full Stack Development**.
-- 📫 How to reach me: https://www.linkedin.com/in/zaid-alvi-b37783145/
+I’m a full-stack engineer with 7+ years of experience designing scalable systems, AI applications, and developer tools.  
+My focus is building **production-grade AI platforms**, realtime systems, and modern SaaS architectures.
+
+I enjoy working at the intersection of **AI, cloud infrastructure, and user-centric products**.
 
 ---
 
-### 🛠️ Languages, Frameworks & Tools:
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,nestjs,graphql,postgres,mongodb,supabase,aws,angular,react,nextjs,docker,git" alt="Zaid's Skills" />
-  </a>
+## 🚀 What I'm Currently Building
+
+🧠 **Einstein AI**  
+Multi-agent AI platform capable of reasoning, tool usage, and autonomous workflows.
+
+🎙 **Realtime Voice Translator**  
+Streaming voice-to-voice translation system powered by Whisper + LLMs.
+
+🤖 **AI SaaS Infrastructure**  
+Production-ready architecture for building scalable AI products.
+
+---
+
+## 🧠 Core Expertise
+
+**AI Systems**
+- LLM integrations
+- RAG architecture
+- AI agents
+- vector databases
+- prompt engineering
+
+**Backend Engineering**
+- Node.js / NestJS
+- Python
+- GraphQL
+- distributed systems
+
+**Frontend Engineering**
+- React
+- Next.js
+- Angular
+- TypeScript
+
+**Cloud & Infrastructure**
+- AWS
+- Docker
+- CI/CD
+- Supabase
+- PostgreSQL
+
+---
+
+## 🏗 System Architecture Focus
+
+I enjoy designing scalable architectures such as:
+
+• AI agent orchestration systems  
+• realtime event driven backends  
+• vector search pipelines  
+• high performance APIs  
+• multi-tenant SaaS platforms  
+
+---
+
+## 📌 Flagship Projects
+
+### 🧠 Einstein AI
+Multi-agent AI framework capable of tool usage and autonomous reasoning.
+
+Features:
+- RAG pipeline
+- tool ecosystem
+- memory architecture
+- distributed agents
+
+---
+
+### 🎙 Live Voice Translator
+Realtime streaming translation platform.
+
+Features:
+- Whisper streaming
+- WebRTC voice pipeline
+- low latency LLM processing
+- multilingual support
+
+---
+
+### 🚀 AI SaaS Starter
+Production-ready AI SaaS infrastructure.
+
+Includes:
+- authentication
+- billing
+- AI agents
+- vector database
+- observability
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ZaidAlvi786&show_icons=true&theme=radium&hide_border=true" />
 </p>
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaidAlvi786&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Zaid's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidAlvi786&theme=radium&hide_border=true" alt="Zaid's GitHub Streak" />
-</p>
+---
 
-### 🏆 Top Languages:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAlvi786&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</p>
+## 🌍 Let's Connect
+
+LinkedIn  
+https://www.linkedin.com/in/zaid-alvi-b37783145/
+
+---
+
+⭐ I enjoy collaborating on ambitious projects and open-source tools.
