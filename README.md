@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/zaid-alvi-b37783145">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a" />
 </a>
-<a href="mailto:your.email@domain.com">
+<a href="mailto:zaidalviza786@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a" />
 </a>
 <a href="https://github.com/ZaidAlvi786">
@@ -40,7 +40,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"/> About Me
 
 ​```yaml
-name:        "Your Name"
+name:        "Zaid Alvi"
 role:        "Software Engineer • AI Engineer • Full Stack Developer"
 focus:       "Building enterprise-grade, intelligent, scalable products"
 philosophy:  "Ship with precision. Engineer with intent. Design for scale."
